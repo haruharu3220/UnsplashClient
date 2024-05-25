@@ -27,6 +27,10 @@ class MainActivity : ComponentActivity() {
                     Text(
                         text = "Hello"
                     )
+                    Text(
+                        text = "Good Morning"
+                    )
+
                 }
             }
         }
