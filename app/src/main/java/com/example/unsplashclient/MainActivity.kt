@@ -24,7 +24,9 @@ class MainActivity : ComponentActivity() {
                 Scaffold(
                     modifier = Modifier.fillMaxSize()
                 ) {
-
+                    Text(
+                        text = "Hello"
+                    )
                 }
             }
         }
