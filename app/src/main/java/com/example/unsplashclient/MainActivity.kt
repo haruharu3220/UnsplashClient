@@ -26,6 +26,18 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Text(text="これはテストです")
 
+
+
+
+
+
+                    Text(
+                        text = "Hello"
+                    )
+                    Text(
+                        text = "Good Morning"
+                    )
+
                 }
             }
         }
