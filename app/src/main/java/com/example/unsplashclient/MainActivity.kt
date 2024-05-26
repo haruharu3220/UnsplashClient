@@ -24,19 +24,6 @@ class MainActivity : ComponentActivity() {
                 Scaffold(
                     modifier = Modifier.fillMaxSize()
                 ) {
-                    Text(text="これはテストです")
-
-
-
-
-
-
-                    Text(
-                        text = "Hello"
-                    )
-                    Text(
-                        text = "Good Morning"
-                    )
 
                 }
             }
