@@ -25,18 +25,6 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize()
                 ) {
 
-
-
-
-
-
-                    Text(
-                        text = "Hello"
-                    )
-                    Text(
-                        text = "Good Morning"
-                    )
-
                 }
             }
         }
